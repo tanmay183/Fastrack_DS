@@ -1071,14 +1071,4 @@ print(reverse_pairs([2, 4, 3, 5, 1]))
 - "Quick sort is faster in practice, merge sort gives a worst-case guarantee and stability."
 - "If I only need the top K, I don't sort fully: heap O(n log k) or quickselect O(n)."
 
-### Practice list
-| Level | Problems |
-|---|---|
-| Easy | Sort Array By Parity (905), Relative Sort Array (1122), Height Checker (1051), Assign Cookies (455), Intersection of Two Arrays II (350), Valid Anagram (242) |
-| Medium | Sort Colors (75), Merge Intervals (56), Non-overlapping Intervals (435), Group Anagrams (49), Sort List (148), Wiggle Sort II (324), K Closest Points to Origin (973), Car Fleet (853), Insert Interval (57) |
-| Hard | Count of Range Sum (327), Reverse Pairs (493), Count Smaller Numbers After Self (315), Maximum Gap (164), Median of Two Sorted Arrays (4), Merge k Sorted Lists (23) |
 
-### ✅ Final advice for 12 November 2026
-- Be able to **write from memory**: Merge sort, Quick sort (partition), Insertion sort, Heap sort. Understand Counting sort.
-- Remember the **patterns** in Section 15: most "sorting problems" are just *sort first, then scan*.
-- Next topic: tell me **Strings**, **Hashing**, **Recursion & Backtracking**, **Linked List**, **Stack & Queue**... and I'll prepare it in the same format. 🚀
