@@ -1112,14 +1112,4 @@ while l < r:                   # for right in range(n):            # for x in nu
 
 ---
 
-## 10. Practice List (after the 15 above)
-| Level | Problems |
-|---|---|
-| Easy | Contains Duplicate (217), Single Number (136), Majority Element (169), Merge Sorted Array (88), Missing Number (268), Plus One (66) |
-| Medium | Top K Frequent Elements (347), Group Anagrams (49), Longest Consecutive Sequence (128), Next Permutation (31), Set Matrix Zeroes (73), Spiral Matrix (54), Rotate Image (48), Merge Intervals (56), Search in Rotated Sorted Array (33), Find Min in Rotated Array (153), Daily Temperatures (739), 4Sum (18), Maximum Product Subarray (152) |
-| Hard | Trapping Rain Water (42), Sliding Window Maximum (239), First Missing Positive (41), Largest Rectangle in Histogram (84), Median of Two Sorted Arrays (4), Count of Smaller Numbers After Self (315), Subarrays with K Different Integers (992) |
 
-### ✅ Final advice for 12 November 2026
-- Re-type Problems 3, 7, 9, 10, 11, 12, 15 from memory — they cover most array interview patterns.
-- Every day: 1 easy + 1 medium, and write down **which pattern** solved it.
-- Next topic: tell me **Strings**, **Hashing**, **Recursion**, **Sorting & Searching** or any other, and I'll prepare it in the same format. 🚀
