@@ -1005,14 +1005,4 @@ print(find_median([0, 0], [0, 0]))
 - "minimum possible maximum", "maximum possible minimum", "least capacity/time/speed" → **binary search on answer**.
 - n up to 10^9 or 10^18 with no array → almost surely binary search on answer.
 
-### Practice list
-| Level | Problems |
-|---|---|
-| Easy | Binary Search (704), Sqrt(x) (69), Valid Perfect Square (367), Guess Number (374), First Bad Version (278), Arranging Coins (441) |
-| Medium | Single Element in Sorted Array (540), Find K Closest Elements (658), Search in Rotated II with duplicates (81), Find First/Last (34), Time Based Key-Value Store (981), Magnetic Force Between Two Balls (1552), Minimum Days to Make m Bouquets (1482), Smallest Divisor Given a Threshold (1283) |
-| Hard | Median of Two Sorted Arrays (4), Split Array Largest Sum (410), Find in Mountain Array (1095), Kth Smallest Pair Distance (719), Capacity to Ship (1011), Painter's Partition, Allocate Books |
 
-### ✅ Final advice for 12 November 2026
-- Master **Template 1, 2, 3** — most binary search problems are just one of these three.
-- For every "min of max / max of min" problem, write `feasible()` first, then wrap it with binary search.
-- Next topic: tell me **Sorting**, **Strings**, **Hashing**, **Recursion**, **Linked List**... and I will prepare it in the same format. 🚀
