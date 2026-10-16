@@ -700,9 +700,3 @@ n.bit_length()            # bits needed for n
 
 ---
 
-### ✅ Final Advice for 12 November 2026
-- Revise the **15 problems** by re-typing them without looking.
-- Memorise: Euclid, Sieve, Binary Power, nCr mod p, Prime Factorization.
-- Spend 30 minutes daily on 2 math problems; after 2 weeks they will feel automatic.
-
-**Next section:** tell me the next topic (Arrays / Strings / Recursion / Sorting …) and I will prepare it in the same format. 🚀
