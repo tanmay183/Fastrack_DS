@@ -924,14 +924,3 @@ O(1) < O(log n) < O(√n) < O(n) < O(n log n) < O(n²) < O(n³) < O(2ⁿ) < O(n!
 | BFS / DFS on a graph | O(V + E) | O(V) |
 | Hash map lookup / insert | O(1) avg | O(n) |
 | Heap push / pop | O(log n) | O(1) |
-
-### Before you submit, ask yourself
-1. What is `n`? (Is there more than one variable?)
-2. What is the worst case?
-3. Does any line hide a loop? (`in list`, slicing, `sum`, `+=` on strings)
-4. How deep is my recursion?
-5. Does my complexity fit the constraints? (Use the table in Section 13.)
-
----
-
-**Next topic suggestion:** Arrays and Strings. They are the base for almost every other pattern, and every concept above will now start showing up in real problems.
