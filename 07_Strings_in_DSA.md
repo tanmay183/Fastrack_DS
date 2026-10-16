@@ -962,14 +962,3 @@ Find pattern in text?  → KMP / .find()
 - "KMP avoids re-comparing characters using the LPS array → O(n + m)."
 - "Sliding window works when expanding/shrinking changes validity monotonically."
 
-### Practice list
-| Level | Problems |
-|---|---|
-| Easy | Reverse String (344), Valid Palindrome II (680), Isomorphic Strings (205), Ransom Note (383), Roman to Integer (13), Add Binary (67), Implement strStr (28), Is Subsequence (392) |
-| Medium | Longest Palindromic Substring (5), Palindromic Substrings (647), Group Anagrams (49), String to Integer (8), Permutation in String (567), Find All Anagrams (438), Minimum Remove to Make Valid Parentheses (1249), Generate Parentheses (22), Word Break (139), Longest Palindromic Subsequence (516), Reorganize String (767), Zigzag Conversion (6) |
-| Hard | Minimum Window Substring (76), Edit Distance (72), Regular Expression Matching (10), Wildcard Matching (44), Longest Valid Parentheses (32), Palindrome Pairs (336), Shortest Palindrome (214), Distinct Subsequences (115) |
-
-### ✅ Final advice for 12 November 2026
-- Priority order for revision: **sliding window (8, 11, 15) → DP on strings (12, 13) → stack (5, 10) → KMP & Trie**.
-- For each solved problem, say out loud: *brute force → what is repeated → which pattern removes it*.
-- You have now covered: **Math → Arrays → Searching → Sorting → Strings**. Next recommended topics: **Hashing, Recursion & Backtracking, Linked List, Stack & Queue, Trees, Graphs, Dynamic Programming**. Tell me which one you want and I'll prepare it in the same format. 🚀
