@@ -1403,16 +1403,4 @@ def minimum_effort_path(heights):
 5. Code with clean names, handle edge cases (empty graph, single node, no path).
 6. Dry-run a small example.
 
-## 14.4 7-day revision plan (before 12 November)
 
-| Day | Focus |
-|---|---|
-| 1 | Parts 1–5: representation, BFS, DFS, grids. Problems 1, 2, 3 |
-| 2 | Parts 6–7: components, cycles, bipartite. Problems 5, 6 + 3 extra grid problems |
-| 3 | Part 8: topological sort. Problems 4, 14 + Course Schedule, Minimum Height Trees |
-| 4 | Part 9: Dijkstra, Bellman-Ford. Problems 8, 9, 15 |
-| 5 | Part 10: DSU + MST. Problems 10, 11, 12 + Accounts Merge |
-| 6 | Part 11: Tarjan, SCC. Problems 7, 13 |
-| 7 | Mock: solve 3 random problems from the 15 in 90 minutes, no notes |
-
-Good luck. Graph problems look scary, but they are almost always one of: **BFS, DFS, Topo sort, Dijkstra, DSU, MST**. Learn to recognise the pattern and the code writes itself.
