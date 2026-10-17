@@ -1219,15 +1219,4 @@ while cur or stack:
 - "Tree DP: children return information, the parent combines it; I keep a global variable for the best answer."
 - "BFS uses a queue and visits level by level; DFS uses recursion/stack and is O(h) space."
 
-### Practice list
-| Level | Problems |
-|---|---|
-| Easy | Maximum Depth (104), Same Tree (100), Invert Binary Tree (226), Symmetric Tree (101), Path Sum (112), Diameter of Binary Tree (543), Balanced Binary Tree (110), Subtree of Another Tree (572), Minimum Depth (111), Convert Sorted Array to BST (108), Merge Two Binary Trees (617), Lowest Common Ancestor of a BST (235) |
-| Medium | Level Order Traversal (102), Zigzag Level Order (103), Right Side View (199), Validate BST (98), Kth Smallest in BST (230), LCA of a Binary Tree (236), Construct from Preorder & Inorder (105), Path Sum II (113), Count Good Nodes (1448), Delete Node in a BST (450), House Robber III (337), Flatten Binary Tree to Linked List (114), Populating Next Right Pointers (116), BST Iterator (173), All Nodes Distance K (863) |
-| Hard | Binary Tree Maximum Path Sum (124), Serialize and Deserialize Binary Tree (297), Recover BST (99), Vertical Order Traversal (987), Binary Tree Cameras (968), Boundary of Binary Tree (545), Longest Increasing Path in a Matrix (329, tree/graph DFS idea) |
 
-### ✅ Final advice for 12 November 2026
-- For every tree problem ask first: **"What do I need from the left and right subtrees?"** and **"What do I return to my parent?"**
-- Master the **three templates** above: they cover most tree questions.
-- Always dry-run on a tiny tree with the edge cases: empty tree, single node, skewed tree.
-- Topics finished: **Math → Arrays → Searching → Sorting → Strings → Recursion → Hashing → Stack & Queue → Linked List → Trees & BST**. Suggested next: **Heap / Priority Queue, Graphs, Dynamic Programming, Trie**. 🚀
