@@ -1071,16 +1071,4 @@ def count_range_sum(nums, lower, upper):
 - **Segment tree:** "Each node stores the answer for a segment. Queries combine O(log n) nodes; an update recomputes O(log n) ancestors. For range updates I add lazy propagation. If it is only prefix sums with point updates, a Fenwick tree is simpler."
 - Always say the **complexity** and **why a simpler approach is too slow** (n·q).
 
-## 7-day plan (before 12 November)
 
-| Day | Focus | Problems |
-|---|---|---|
-| 1 | Trie basics: Sections 1–3 | 1, 4, 5 + Map Sum Pairs |
-| 2 | Trie advanced | 2, 3, 7 |
-| 3 | Binary trie + reverse trie | 6, 8 + Prefix and Suffix Search |
-| 4 | Segment tree basics (recursive, then iterative) | 9, 10 |
-| 5 | Fenwick + coordinate compression | 11, 15 + Reverse Pairs |
-| 6 | Lazy propagation + dynamic tree | 12, 13, 14 |
-| 7 | Mock: 3 random problems from the 15 in 90 minutes, no notes | |
-
-**Final advice:** both structures are *templates*. Learn the template, then in the interview only decide: *what do I store in each node?* and *how do I combine two children?*
