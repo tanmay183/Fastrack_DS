@@ -1363,4 +1363,4 @@ You are ready for heap questions in the coding round if you can, without help:
 
 ---
 
-**Next topic suggestion:** Sorting and Searching (binary search patterns), or Graphs (BFS, DFS, then Dijkstra again with full understanding). Tell me which one you want next.
+
