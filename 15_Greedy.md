@@ -729,15 +729,3 @@ for x in stream:
 - "If a counter-example exists, e.g. coins {1,3,4}, I switch to DP."
 - "Sort-based greedy is O(n log n); the greedy scan itself is O(n)."
 
-### Practice list
-| Level | Problems |
-|---|---|
-| Easy | Assign Cookies (455), Lemonade Change (860), Best Time to Buy and Sell Stock II (122), Maximum Units on a Truck (1710), Minimum Absolute Difference (1200), Split a String in Balanced Strings (1221), Array Partition I (561) |
-| Medium | Jump Game (55), Jump Game II (45), Gas Station (134), Non-overlapping Intervals (435), Minimum Arrows to Burst Balloons (452), Partition Labels (763), Task Scheduler (621), Merge Intervals (56), Queue Reconstruction by Height (406), Two City Scheduling (1029), Remove K Digits (402), Reorganize String (767), Hand of Straights (846), Boats to Save People (881), Largest Number (179), Meeting Rooms II (253), Minimum Number of Taps to Open (1326), Video Stitching (1024) |
-| Hard | Candy (135), Minimum Number of Refueling Stops (871), IPO (502), Course Schedule III (630), Remove Duplicate Letters (316), Patching Array (330), Create Maximum Number (321), Minimum Cost to Hire K Workers (857) |
-
-### ✅ Final advice for 12 November 2026
-- Learn to **recognise the sort key**: intervals → end time; profit → descending; ratio problems → value/weight.
-- For each greedy problem, say out loud *why the greedy choice is safe* (exchange argument). Interviewers weigh this as much as the code.
-- Greedy and DP are siblings: if the greedy rule breaks on a small example, move to DP.
-- Topics finished: **Math → Arrays → Searching → Sorting → Strings → Recursion → Hashing → Stack & Queue → Linked List → Trees & BST → Greedy**. Suggested next: **Heap / Priority Queue, Graphs, Dynamic Programming, Trie**. 🚀
