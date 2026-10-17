@@ -1026,15 +1026,4 @@ print(c.get(4))
 - "Memoization stores results in a hash map, turning exponential recursion into polynomial time."
 - "A hash table gives average O(1) insert/search/delete using a hash function, handling collisions with chaining or open addressing."
 
-### Practice list
-| Level | Recursion / Backtracking | Hashing |
-|---|---|---|
-| Easy | Climbing Stairs (70), Power of Two (231), Fibonacci Number (509), Reverse String (344) | Two Sum (1), Valid Anagram (242), Single Number (136), Happy Number (202), Isomorphic Strings (205) |
-| Medium | Subsets II (90), Permutations II (47), Combination Sum II (40), Letter Combinations of a Phone Number (17), Word Search (79), Palindrome Partitioning (131) | Group Anagrams (49), Top K Frequent (347), Subarray Sum Equals K (560), Longest Substring Without Repeating (3), Encode and Decode TinyURL (535), Random Pick with Weight (528) |
-| Hard | N-Queens II (52), Sudoku Solver (37), Word Search II (212), Expression Add Operators (282) | LFU Cache (460), All O(1) Data Structure (432), Max Points on a Line (149), Substring with Concatenation of All Words (30) |
 
-### ✅ Final advice for 12 November 2026
-- **Backtracking:** write the *choose–explore–un-choose* template from memory; then Problems 4, 5, 6, 7, 8 are just variations.
-- **Hashing:** whenever you see "for each element, find …", ask *"can a hash map answer this in O(1)?"*
-- Recursion + hashing together = **memoization → Dynamic Programming**, which is a great next topic.
-- Topics finished: **Math → Arrays → Searching → Sorting → Strings → Recursion → Hashing**. Suggested next: **Linked List, Stack & Queue, Trees, Graphs, Dynamic Programming**. 🚀
