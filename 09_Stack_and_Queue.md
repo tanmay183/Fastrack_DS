@@ -1068,15 +1068,4 @@ print(largest_rectangle([1, 1, 1, 1]))
 - Need the **best** next item by priority? → **Heap**.
 - Need max/min of a **moving window**? → **Monotonic deque**.
 
-### Practice list
-| Level | Problems |
-|---|---|
-| Easy | Valid Parentheses (20), Implement Queue using Stacks (232), Implement Stack using Queues (225), Baseball Game (682), Remove All Adjacent Duplicates (1047), Number of Recent Calls (933), Next Greater Element I (496), Make The String Great (1544) |
-| Medium | Min Stack (155), Daily Temperatures (739), Decode String (394), Simplify Path (71), Online Stock Span (901), Remove K Digits (402), Asteroid Collision (735), Design Circular Queue (622), Number of Islands (200), Perfect Squares (279), Open the Lock (752), Car Fleet (853), Score of Parentheses (856) |
-| Hard | Largest Rectangle in Histogram (84), Sliding Window Maximum (239), Maximal Rectangle (85), Trapping Rain Water (42), Longest Valid Parentheses (32), Basic Calculator (224), Shortest Subarray with Sum at least K (862), Sum of Subarray Minimums (907) |
 
-### ✅ Final advice for 12 November 2026
-- Memorise the **monotonic stack template** (Section 7.1): Problems 7, 8, 10, 15 are the same pattern.
-- Practise explaining **why each element is pushed/popped once → O(n)**.
-- For BFS problems write: *queue init → loop by level → neighbours → mark visited*.
-- Topics finished: **Math → Arrays → Searching → Sorting → Strings → Recursion → Hashing → Stack & Queue**. Suggested next: **Linked List, Trees, Graphs, Dynamic Programming**. 🚀
