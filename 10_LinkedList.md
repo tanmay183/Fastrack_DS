@@ -1063,14 +1063,4 @@ return dummy.next
 - "Fast/slow pointers solve middle, cycle and palindrome problems in O(1) space."
 - "A doubly linked list + hash map gives an O(1) LRU cache."
 
-### Practice list
-| Level | Problems |
-|---|---|
-| Easy | Reverse Linked List (206), Merge Two Sorted Lists (21), Middle of the Linked List (876), Linked List Cycle (141), Remove Linked List Elements (203), Palindrome Linked List (234), Intersection of Two Linked Lists (160), Delete Node in a Linked List (237), Remove Duplicates from Sorted List (83) |
-| Medium | Add Two Numbers (2), Remove Nth Node From End (19), Linked List Cycle II (142), Odd Even Linked List (328), Swap Nodes in Pairs (24), Rotate List (61), Reorder List (143), Sort List (148), Copy List with Random Pointer (138), Reverse Linked List II (92), Partition List (86), Remove Duplicates from Sorted List II (82), LRU Cache (146), Flatten a Multilevel Doubly Linked List (430) |
-| Hard | Reverse Nodes in k-Group (25), Merge k Sorted Lists (23), LFU Cache (460), All O`one Data Structure (432) |
 
-### ✅ Final advice for 12 November 2026
-- Draw **boxes and arrows** for every pointer problem and dry-run with 3–4 nodes plus the edge cases (empty, one node, two nodes).
-- Be able to write **reverse**, **middle**, **merge two lists** and **Floyd cycle** from memory — they are building blocks of most other problems.
-- Topics finished: **Math → Arrays → Searching → Sorting → Strings → Recursion → Hashing → Stack & Queue → Linked List**. Suggested next: **Trees (Binary Tree, BST), Graphs, Dynamic Programming**. 🚀
