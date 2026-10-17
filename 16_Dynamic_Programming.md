@@ -755,16 +755,4 @@ def max_coins(nums):
 4. "Time is states × transitions = ___, space is ___, and I can reduce it to ___ because only the previous row is needed."
 5. Dry-run on a tiny example.
 
-## 8.4 7-day plan (before 12 November)
 
-| Day | Focus | Problems |
-|---|---|---|
-| 1 | Parts 1–4, Linear DP | 1, 2, 6, 14 |
-| 2 | Grid DP, string linear DP | 5, 11 + Min Path Sum, Triangle |
-| 3 | Knapsack family | 3, 9, 10 + Coin Change II, Target Sum |
-| 4 | Subsequence + LCS family | 4, 7 + Longest Palindromic Subsequence |
-| 5 | Edit distance + palindromes | 8, 12 + Palindromic Substrings |
-| 6 | State machine + interval | 13, 15 + Stock with Fee |
-| 7 | Mock: 3 random problems in 90 minutes, no notes | |
-
-**Final advice:** don't memorise code. For each problem say out loud **State → Transition → Base → Order → Answer**. If you can do that, the code writes itself.
